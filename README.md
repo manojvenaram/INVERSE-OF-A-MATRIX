@@ -23,7 +23,7 @@ print(I)
 ```
 ## Output:
 
-![git logo](OUTPUT.PNG)
+![git logo](m.png)
 ## Result:
 Thus the inverse of given matrix is successfully solved using python program.
 
